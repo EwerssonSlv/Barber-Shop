@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "154949764784",
+    "project_id": "barbearia-7951d",
+    "storage_bucket": "barbearia-7951d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154949764784:android:199c7533a4903a11981d75",
+        "android_client_info": {
+          "package_name": "com.ewersson.firstapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6DHc8w7aIPWj6CxC29ZZcCWNBOQYXe4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
